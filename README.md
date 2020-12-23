@@ -8,7 +8,7 @@
  5. Solution Design
 - 📫 How to reach me: 
   You ccan reach out to me on my 
-  Linked In (https://www.linkedin.com/in/kasichennupati/)
+  Linked-In(https://www.linkedin.com/in/kasichennupati/)
 
 <!--
 **KasiChennupati/KasiChennupati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
