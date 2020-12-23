@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  5. Solution Design
 - 📫 How to reach me: 
   You ccan reach out to me on my 
-  Linked In (https://www.linkedin.com/in/kasichennupati/)
+  [Linked In](https://www.linkedin.com/in/kasichennupati/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
