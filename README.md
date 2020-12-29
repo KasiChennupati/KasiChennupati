@@ -6,8 +6,14 @@
  3. Artificial Intelligence
  4. Statistical Data Analysis
  5. Solution Design
+ 
+- 🌱 I’m currently Focussed on
+ 1. Tensorflow
+ 2. Natural Language Processing
+ 3. Neural Networks
+ 
 - 📫 How to reach me: 
-  You ccan reach out to me on my 
+  You can reach out to me on my 
   [Linked-In](https://www.linkedin.com/in/kasichennupati/)
 
 <!--
@@ -16,15 +22,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
+ ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
- 1. Data Science
- 2. Machine Learning
- 3. Artificial Intelligence
- 4. Statistical Data Analysis
- 5. Solution Design
 - 📫 How to reach me: 
   You ccan reach out to me on my 
   [Linked In](https://www.linkedin.com/in/kasichennupati/)
