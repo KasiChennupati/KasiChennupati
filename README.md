@@ -5,11 +5,11 @@
  2. Machine Learning
  3. Artificial Intelligence
  4. Statistical Data Analysis
- 5. Solution Design
+
  
 - 🌱 I’m currently Focussed on
- 1. Tensorflow
- 2. Natural Language Processing
+ 1. Machine Learning
+ 2. Data Engineering
  3. Neural Networks
  
 - 📫 How to reach me: 
