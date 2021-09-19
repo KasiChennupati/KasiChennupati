@@ -4,7 +4,7 @@
  1. Data Science
  2. Machine Learning
  3. Artificial Intelligence
- 4. Statistical Data Analysis
+ 4. Business Process Optimisation
 
  
 - 🌱 I’m currently Focussed on
