@@ -1,20 +1,30 @@
 ### Hi there 👋
 
-- 💬 Ask me about 
- 1. Data Science
- 2. Machine Learning
- 3. Artificial Intelligence
- 4. Business Process Optimisation
+According to me there is only one field __Data Science__ and there are subfield specialisations.
 
- 
-- 🌱 I’m currently Focussed on
- 1. Machine Learning
- 2. Data Engineering
- 3. Neural Networks
- 
+- 💬 Ask me about 
+  - Data Science, Machine Learning, Artificial Intelligence
+  - Business Process Optimisation
+  - Machine Learning Operations for Enterprise
+
+<br>
+
+- 🌱 I’m currently Focussed on<br>
+  - ✨ Natural Language Processing
+  - Machine Learning Ops 
+  - Data Engineering
+  - Neural Networks
+<br><br>
+
+- 🤔 I’m looking for help with :
+  - Mycroft AI
+<br><br>
+- ⚡ Fun fact: <br>
+I was a Mechanical Engineer who avoided Computers once
+<br><br>
 - 📫 How to reach me: 
-  You can reach out to me on my 
-  [Linked-In](https://www.linkedin.com/in/kasichennupati/)
+  - [LinkedIn](https://www.linkedin.com/in/kasichennupati/)
+  - [Twitter](https://twitter.com/kasichennupati)
 
 <!--
 **KasiChennupati/KasiChennupati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,8 +37,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
 - 📫 How to reach me: 
-  You ccan reach out to me on my 
+  You can reach out/ follow me on: 
   [Linked In](https://www.linkedin.com/in/kasichennupati/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
+I'm a Mechanical Engineer 
 -->
