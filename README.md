@@ -22,8 +22,8 @@ According to me there is only one field __Data Science__ and there are subfield 
 <br><br>
 - ⚡ Fun fact: <br>
 I was a Mechanical Engineer who avoided Computers once
-<br>
-- Technologies I love to work with: 
+<br><br>
+- Technologies I love to work with: <br>
   - Python
   - PostgresQL
   - Apache Kafka, Airflow, Spark, TinkerPop, Hop
