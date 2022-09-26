@@ -6,12 +6,13 @@ According to me there is only one field __Data Science__ and there are subfield 
   - Data Science, Machine Learning, Artificial Intelligence
   - Business Process Optimisation
   - Machine Learning Operations for Enterprise
+  - Data Engineering
 
 <br>
 
 - 🌱 I’m currently Focussed on<br>
   - ✨ Natural Language Processing
-  - Machine Learning Ops 
+  - ML Ops
   - Data Engineering
   - Neural Networks
 <br><br>
@@ -21,11 +22,20 @@ According to me there is only one field __Data Science__ and there are subfield 
 <br><br>
 - ⚡ Fun fact: <br>
 I was a Mechanical Engineer who avoided Computers once
-<br><br>
+<br>
+- Technologies I love to work with: 
+  - Python
+  - PostgresQL
+  - Apache Kafka, Airflow, Spark, TinkerPop, Hop
+  - Linux
+<br>
+<br>
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/kasichennupati/)
   - [Twitter](https://twitter.com/kasichennupati)
 
+- 😄 Pronouns: He/Him
+<br>
 <!--
 **KasiChennupati/KasiChennupati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
