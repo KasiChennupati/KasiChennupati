@@ -26,7 +26,7 @@ I was a Mechanical Engineer who avoided Computers once
 - Technologies I love to work with: <br>
   - Python
   - PostgresQL
-  - Apache Kafka, Airflow, Spark, TinkerPop, Hop
+  - Apache Spark, Airflow, cassandra
   - Linux
 <br>
 <br>
