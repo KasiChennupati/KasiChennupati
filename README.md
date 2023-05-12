@@ -30,11 +30,11 @@ I was a Mechanical Engineer who avoided Computers once
   - Linux
 <br>
 <br>
-- 📫 How to reach me: 
+
+- 📫 How to reach me: <br>
   - [LinkedIn](https://www.linkedin.com/in/kasichennupati/)<br>
   - [Twitter](https://twitter.com/kasichennupati)
 
-- 😄 Pronouns: He/Him
 <br>
 <!--
 **KasiChennupati/KasiChennupati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
