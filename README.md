@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-According to me there is only one field __Data Science__ and there are subfield specialisations.
+I am Interest and Research in __Data Science__ and multiple subfields specialisations.
 
-- 💬 Ask me about 
+- 💬 You can approach me about 
   - Data Science, Machine Learning, Artificial Intelligence
   - Business Process Optimisation
   - Machine Learning Operations for Enterprise
