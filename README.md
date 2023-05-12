@@ -31,7 +31,7 @@ I was a Mechanical Engineer who avoided Computers once
 <br>
 <br>
 - 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/kasichennupati/)
+  - [LinkedIn](https://www.linkedin.com/in/kasichennupati/)<br>
   - [Twitter](https://twitter.com/kasichennupati)
 
 - 😄 Pronouns: He/Him
